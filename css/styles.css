@@ -1,0 +1,124 @@
+html{
+	margin: 0 auto;
+	max-width: 950px;
+}
+body {
+	background-color: #FFFF99;
+	color: #484848;
+}
+header {
+	border-bottom: 2px solid;
+}
+header ul {
+	text-align: center;
+	padding-right: 32px;
+	font-family: 'Indie Flower', cursive; 
+	text-decoration: none;
+	margin-bottom: 0;
+}
+header li {
+	display: inline;
+	text-transform: uppercase;
+	font-weight: bold;
+	font-size: 25px;
+	padding: 0 5px;
+	margin-bottom: 10px;
+}
+h1 {
+	text-transform: uppercase;
+	font-family: 'Indie Flower', cursive; 
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 5px;
+}
+h2 {
+	font-family: 'Indie Flower', cursive;
+	padding:0 5px;
+	font-size: 25px;
+	margin-bottom: 0;
+	font-weight: bolder;
+}
+.contact {
+	font-family: 'Indie Flower', cursive;
+}
+.socialbuttons img {
+	display: inline;
+	width: 30px;
+	height: 30px;
+	padding: 2px;
+  	margin-right: 5px;
+}
+.socialbuttons p {
+	display: block;
+	font-size: 20px;
+	margin-top: 0;
+	margin-bottom: 0;
+	text-transform: uppercase;
+}
+.beer_squares img {
+	width: 200px;
+	height: 200px;
+	padding-top: 15px;
+	padding-right: 55px;
+	padding-bottom: 15px;
+	padding-left: 50px;
+}
+h4 {
+	font-size: 20px;
+	padding: 0 5px;
+}
+h4 a {
+	text-decoration: none;
+	color: #484848;
+}
+footer {
+	font-family: 'Indie Flower', cursive;
+	text-align: center;
+	margin: 0;
+	text-transform: uppercase;
+	border-top: 1px solid;
+}
+nav li a {
+	text-decoration: none;
+	color: #484848;
+}
+a:hover {
+	color: #dddddd;
+}
+blockquote {
+	float: right;
+	background-color: #FFFFFF;
+	height: 215px;
+	width: 310px;
+	text-align: center;
+	box-shadow: 0px 0px 5px;
+	background-image: url("../beer_image.jpg");
+	background-size: 105%;
+	margin-bottom: 5px;
+}
+blockquote p {
+	font-size: 30px;
+	/*font-family: Helvetica, Arial, sans-serif;*/
+	font-family: 'Indie Flower', cursive;
+	color: #FFFFFF;
+	background-color: #000000;
+	opacity: 0.4;
+}
+p {
+	/*font-family: Helvetica, Arial, sans-serif;*/
+	font-family: 'Indie Flower', cursive;
+	padding:0 5px;
+	font-size: 18px;
+}
+img {
+	padding: 0 5px;
+}
+iframe {
+	float: right;
+	width: 575px;
+	height: 330px;
+	padding: 15px 5px;
+	margin-left: 2px;
+}
+
+
